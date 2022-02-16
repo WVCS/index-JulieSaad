@@ -1,3 +1,46 @@
 body {
+  h1 {
+  color: #6B5CAD;
+  background: #D4C2FC;
+  font-size: 50px;
+  text-shadow: 4px 3px white;
+}
 
+body {
+  background-Color: #8A84E2;
+  border: solid;
+}
+img {
+  border: dashed;
+  border-color: white;
+  
+}
+img:hover {
+  border: dashed 5px violet;
+}
+h1:hover {
+  border: solid 2px white;
+}
+nav {
+  color: purple;
+  list-style-type:none;
+  size: 50px;
+  position: fixed;
+  background-color: #FFEEE2 ;
+  top:0;
+  width:100%;
+  left:0%;
+}
+li {
+  display: inline;
+  padding: 10px;
+  float: left;
+}
+li:hover {
+  background-color: purple;
+}
+a {
+  text-decoration: none;
+  color: violet;
+}
 }
