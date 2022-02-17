@@ -13,10 +13,8 @@ body {
 img {
   border: dashed;
   border-color: white;
-  width: 200px;
- 
-  
-}
+ }
+
 img:hover {
   border: dashed 5px violet;
 }
